@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cgam"]
 	path = cgam
 	url = https://github.com/cran/cgam
-	shallow = true
-	registered = true
 [submodule "csurvey"]
 	path = csurvey
 	url = https://github.com/cran/csurvey
-	shallow = true
-	registered = true
 [submodule "ShapeSelectForest"]
 	path = ShapeSelectForest
 	url = https://github.com/cran/ShapeSelectForest
-	shallow = true
-	registered = true
